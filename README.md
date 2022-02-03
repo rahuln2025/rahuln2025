@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A mechanical engineer with a newfound interest in programming and scientific computing.</h3>
+<h3 align="center">A mechanical engineer with a newfound interest in programming and scientific computing</h3>
 
 - 🌱 I’m currently learning **numerical methods and basic algorithms in programming**
 
