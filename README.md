@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **narkhede.rahul2013@gmail.com**
 
-- ⚡ What do I do: **I manage large projects in the energy sector during work time, and learn programming skills in my free time.**
+- ⚡ What I do: **I manage large projects in the energy sector during work time, and learn programming skills in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
