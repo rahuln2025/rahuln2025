@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **narkhede.rahul2013@gmail.com**
 
-- ⚡ What I do: **I manage large projects in the energy sector during work time, and learn programming skills in my free time.**
+- ⚡ What I do: **I am a mechanical engineer transitioning to the field of computational sciences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
