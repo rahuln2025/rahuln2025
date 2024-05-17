@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **narkhede.rahul2013@gmail.com**
 
-- ⚡ Currently busy with: **Small Kaggle ML projects, some ML projects from courses and a major project named ML4FatigueLifePrediction**
+- ⚡ Currently busy with: **Small ML projects from Kaggle and ongoing lecture course, and a major project named ML4FatigueLifePrediction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
