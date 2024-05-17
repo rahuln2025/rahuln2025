@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A mechanical engineer with a newfound interest in programming and scientific computing</h3>
+<h3 align="center">A computational science masters student with specific applications in materials science.</h3>
 
-- 🌱 I’m currently learning: **numerical methods and foundational algorithms in programming**
+- 🌱 I’m currently learning: **Machine learning and deep learning methods, both mathematically and hands-on**
 
 - 📫 How to reach me: **narkhede.rahul2013@gmail.com**
 
-- ⚡ What I do: **I am a mechanical engineer transitioning to the field of computational sciences**
+- ⚡ Currently busy with: **Small Kaggle ML projects, some ML projects from courses and a major project named ML4FatigueLifePrediction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
