@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A computational science masters student with specific applications in materials science.</h3>
+<h3 align="center">Computational science student applying AI for physics & materials science.</h3>
 
 - 🌱 I’m currently learning: **Machine learning and deep learning methods, both mathematically and hands-on**
 
