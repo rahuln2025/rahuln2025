@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **narkhede.rahul2013@gmail.com**
 
-- ⚡ Currently busy with: **Small ML projects from Kaggle and assignments, and a major project named ML4FatigueLifePrediction**
+- ⚡ Currently busy with: **Industrial research project at P&G and university research project on deep learning for multiaxial fatigue life prediction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
